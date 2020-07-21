@@ -1,0 +1,8 @@
+Buka command dan ini beberapa source codenya :
+
+Untuk mengetahui apakah composer sudah terinstal atau belum, dengan cara ketik code "composer" lalu enter.
+Lalu untuk menentukan direktori ketik code "cd (nama project)".
+Untuk menginstal laravel menggunakan source code "composer create-project --prefer-dist laravel/laravel (nama project)".
+Jika sudah selesai menginstal, ketik nama projectnya kembali menggunakan code "cd (nama project)". 
+Dan ketik code "php artisan server" untuk mendapatkan link, yang diperlukan untuk mengakses laravel di browser.
+Jika sudah mendapatkan link lalu copy dan paste di browser, lalu enter. Dan nanti akan muncul tampilan laravel di browser.
